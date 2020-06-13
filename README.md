@@ -1,11 +1,11 @@
 # ableton
-Ableton Live files for Kold Fuzeon Records
+Ableton Live files for Kold Fuzeon Records<br>
 
-Live 10 skins:
-PC:
-C:\ProgramData\Ableton\Live 10 Suite\Resources\Themes
+Live 10 skins:<br>
+PC:<br>
+C:\ProgramData\Ableton\Live 10 Suite\Resources\Themes<br>
 
-Mac:
-Right click Ableton Live icon
-Show Package Contents
-Content>App Resources>Themes
+Mac:<br>
+Right click Ableton Live icon<br>
+Show Package Contents<br>
+Content>App Resources>Themes<br>
