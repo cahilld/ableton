@@ -8,9 +8,9 @@
       <Alpha Value="255"/>
     </ControlForeground>
     <TextDisabled>
-      <R Value="243"/>
-      <G Value="220"/>
-      <B Value="254"/>
+      <R Value="255"/>
+      <G Value="255"/>
+      <B Value="255"/>
       <Alpha Value="255"/>
     </TextDisabled>
     <ControlDisabled>
@@ -26,9 +26,9 @@
       <Alpha Value="255"/>
     </MeterBackground>
     <SurfaceHighlight>
-      <R Value="73"/>
-      <G Value="80"/>
-      <B Value="78"/>
+      <R Value="77"/>
+      <G Value="77"/>
+      <B Value="77"/>
       <Alpha Value="255"/>
     </SurfaceHighlight>
     <SurfaceArea>
@@ -38,9 +38,9 @@
       <Alpha Value="255"/>
     </SurfaceArea>
     <Desktop>
-      <R Value="116"/>
-      <G Value="139"/>
-      <B Value="130"/>
+      <R Value="128"/>
+      <G Value="128"/>
+      <B Value="128"/>
       <Alpha Value="255"/>
     </Desktop>
     <ViewCheckControlEnabledOn>
@@ -116,21 +116,21 @@
       <Alpha Value="255"/>
     </ControlFillHandle>
     <ChosenDefault>
-      <R Value="7"/>
-      <G Value="213"/>
-      <B Value="144"/>
+      <R Value="255"/>
+      <G Value="205"/>
+      <B Value="115"/>
       <Alpha Value="255"/>
     </ChosenDefault>
     <ChosenRecord>
-      <R Value="255"/>
-      <G Value="64"/>
-      <B Value="50"/>
+      <R Value="232"/>
+      <G Value="85"/>
+      <B Value="74"/>
       <Alpha Value="255"/>
     </ChosenRecord>
     <ChosenPreListen>
-      <R Value="126"/>
-      <G Value="94"/>
-      <B Value="141"/>
+      <R Value="54"/>
+      <G Value="147"/>
+      <B Value="201"/>
       <Alpha Value="255"/>
     </ChosenPreListen>
     <ImplicitArm>
@@ -524,9 +524,9 @@
       <Alpha Value="255"/>
     </BrowserDisabledItem>
     <BrowserSampleWaveform>
-      <R Value="243"/>
-      <G Value="220"/>
-      <B Value="254"/>
+      <R Value="237"/>
+      <G Value="237"/>
+      <B Value="237"/>
       <Alpha Value="255"/>
     </BrowserSampleWaveform>
     <AutomationDisabled>
@@ -572,9 +572,9 @@
       <Alpha Value="255"/>
     </RetroDisplayForeground2>
     <RetroDisplayForegroundDisabled>
-      <R Value="243"/>
-      <G Value="220"/>
-      <B Value="254"/>
+      <R Value="255"/>
+      <G Value="255"/>
+      <B Value="255"/>
       <Alpha Value="255"/>
     </RetroDisplayForegroundDisabled>
     <RetroDisplayGreen>
